@@ -1,0 +1,14 @@
+
+input{
+    width: 300px;
+    height: 30px;
+}
+.item{
+    text-align: left;
+}
+button{
+    min-width: 80px;
+}
+.item-row{
+    margin: 19px 5px;
+}
